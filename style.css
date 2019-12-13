@@ -563,6 +563,8 @@
 .article-points {
   /* border: 1px solid black; */
   padding: 20px;
+  line-height: 23px;
+  font-family: "Lato", sans-serif;
   color: black;
 }
 
@@ -578,6 +580,7 @@
 }
 
 .download a {
+  font-family: "Montserrat", sans-serif;
   background-color: #30336b;
   border-radius: 50px;
   padding: 16px;
